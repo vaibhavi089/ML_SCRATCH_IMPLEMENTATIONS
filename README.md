@@ -97,12 +97,21 @@ jupyter notebook your_notebook.ipynb
 # Or run the Python script
 python train.py
 
+```
+
 ---
 
 
 ## 🔮 Future Work
-- Add regularization(L1/L2)
-- Add support for multiple algorithms
-- Build simple UI to demo predictions
+
+- Add regularization (L1 and L2) to prevent overfitting.
+- Implement additional algorithms (e.g., SVM, Decision Trees, Naive Bayes).
+- Extend the framework to support mini-batch and stochastic gradient descent.
+- Add interactive UI using Streamlit or Gradio.
+- Optimize matrix operations for larger datasets.
+- Write unit tests for model reliability.
+- Package the codebase into an installable Python package.
+
+
 
 
