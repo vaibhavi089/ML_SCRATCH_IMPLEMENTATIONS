@@ -7,7 +7,6 @@
 
 - [Overview](#overview)
 - [Tech Stack](#tech-stack)
-- [Dataset](#dataset)
 - [Features](#features)
 - [Training](#training)
 - [Results](#results)
@@ -40,18 +39,6 @@ This is intended to:
 
 ---
 
-## 📊 Dataset
-
-- *Name:* [Dataset name, e.g., Boston Housing, Iris, Kaggle dataset]
-- *Size:* [Samples × Features]
-- *Source:* [Kaggle / UCI link]
-
-#### Example:
-> Dataset: California Housing Dataset  
-> Task: Predict house prices based on 8 features like rooms, location, etc.  
-> Type: Supervised Regression
-
----
 
 ## 🌟 Features
 
