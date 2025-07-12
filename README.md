@@ -1,7 +1,6 @@
-# 🧠 Machine Learning Algorithm from Scratch – [Algorithm Name]
+# 🧠 Machine Learning Algorithm from Scratch
 
-> *Custom implementation of [Algorithm Name] using only NumPy and Python* – no scikit-learn used. This is for deep understanding of the internal working of the algorithm.
-
+> *This repo contains clean, from scratch implementations of core machine learning algorithms using **only NumPy**. Each algorithm is organized in its own folder with a Jupyter Notebok explaining the logic, training process and results.
 ---
 
 ## 📌 Table of Contents
@@ -97,3 +96,12 @@ jupyter notebook your_notebook.ipynb
 
 # Or run the Python script
 python train.py
+
+---
+
+## Future work
+- Add regularization(L1/L2)
+- Add support for multiple algorithms
+- Build simple UI to demo predictions
+
+
