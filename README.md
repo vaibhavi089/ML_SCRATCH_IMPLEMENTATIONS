@@ -9,7 +9,6 @@
 - [Tech Stack](#tech-stack)
 - [Features](#features)
 - [Training](#training)
-- [Results](#results)
 - [How to Run](#how-to-run)
 - [Project Structure](#project-structure)
 - [Future Work](#future-work)
@@ -63,19 +62,11 @@ This is intended to:
 
 ---
 
-## 📈 Results
-
-- Final Accuracy: *XX%*
-- Final RMSE: *XX*
-- Loss Graph:  
-  (Insert image if available)
-
----
 
 ## ▶ How to Run
 
 ```bash
-git clone https://github.com/yourusername/ml-algo-from-scratch.git
+git clone https://github.com/vaibhavi089/ml-algo-from-scratch.git
 cd ml-algo-from-scratch
 
 # If using Jupyter
@@ -98,6 +89,14 @@ python train.py
 - Optimize matrix operations for larger datasets.
 - Write unit tests for model reliability.
 - Package the codebase into an installable Python package.
+
+
+---
+
+## Author
+-Name : Vaibhavi Katiyar
+LinkedIn : https://linkedin.com/in/vaibhavi-katiyar
+Github : https://github.com/vaibhavi089
 
 
 
