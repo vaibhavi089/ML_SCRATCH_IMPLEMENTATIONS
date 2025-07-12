@@ -99,7 +99,8 @@ python train.py
 
 ---
 
-## Future work
+
+## 🔮 Future Work
 - Add regularization(L1/L2)
 - Add support for multiple algorithms
 - Build simple UI to demo predictions
