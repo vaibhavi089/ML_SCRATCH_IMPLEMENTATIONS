@@ -95,8 +95,8 @@ python train.py
 
 ## Author
 -Name : Vaibhavi Katiyar
-LinkedIn : https://linkedin.com/in/vaibhavi-katiyar
-Github : https://github.com/vaibhavi089
+-LinkedIn : https://linkedin.com/in/vaibhavi-katiyar
+-Github : https://github.com/vaibhavi089
 
 
 
